@@ -1,0 +1,25 @@
+{
+  "name": "quicksearch",
+  "version": "1.0.0",
+  "description": "A jQuery based plug-in for filtering large data sets with user input",
+  "main": "jquery.quicksearch.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1-ra/quicksearch.git"
+  },
+  "keywords": [
+    "jQuery"
+  ],
+  "author": "Rick Lomas at Lomalogue",
+  "license": "SEE LICENSE IN https://jquery.org/license/",
+  "bugs": {
+    "url": "https://github.com/p1-ra/quicksearch/issues"
+  },
+  "homepage": "https://github.com/p1-ra/quicksearch#readme"
+}
